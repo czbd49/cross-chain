@@ -4,6 +4,7 @@
 
 AstroProxy is an enterprise-grade proxy service provider established in 2018, offering ethically sourced residential, mobile, and datacenter proxies for businesses and individuals . The platform provides access to over 2 million whitelisted, geo-targeted IP addresses spanning 100+ countries with support for both HTTP(S) and SOCKS5 protocols . AstroProxy specializes in dynamic IP rotation, VPN-compatible proxies, and flexible pay-as-you-go pricing models, making it an ideal solution for web scraping, market research, social media management, SEO monitoring, and AI training . The service maintains strict KYC and AML compliance with AI-based network monitoring to ensure ethical data collection practices .
 
+<img width="3166" height="1527" alt="image" src="https://github.com/user-attachments/assets/b6acec70-71be-48f1-b427-877ddb745e43" />
 
 ## AstroProxy Official Website Address
 
